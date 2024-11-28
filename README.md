@@ -1,6 +1,6 @@
 # Matrix Transpose and Symmetry Optimization
 
-This repository contains code for optimizing matrix transposition and symmetry operations using both sequential and parallel approaches. The implementation leverages OpenMP for parallelism and employs techniques like dynamic scheduling, block-wise partitioning, and vectorized operations (AVX-512) for high performance.
+This repository contains code for optimizing matrix transposition and symmetry operations using both sequential and parallel approaches. The implementation leverages OpenMP for parallelism and employs techniques like block-wise partitioning, and vectorized operations (AVX-512) for high performance.
 
 ---
 
